@@ -1,0 +1,16 @@
+[
+  {
+    "row_a": "A-0018",
+    "row_b": "B-0056",
+    "hotel_a_id": "C0018",
+    "hotel_b_id": "C0047",
+    "score": 0.53,
+    "band": "no_match",
+    "llm_same": null,
+    "llm_confidence": null,
+    "llm_reason": "",
+    "final_decision": "false",
+    "explanation": "name 0.88, phone differs, same pincode, plot differs, 850 m apart"
+  }
+]
+

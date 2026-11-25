@@ -1,0 +1,40 @@
+[
+  {
+    "cluster_id": "C0001",
+    "name": "Taj Lands End, Mumbai",
+    "address": "BJ Road, Bandra West",
+    "pincode": "400050",
+    "city": "Mumbai",
+    "lat": 19.0435,
+    "lon": 72.8194,
+    "stars": "5",
+    "offers": [
+      {
+        "row_id": "A-0001",
+        "supplier": "A",
+        "price_inr": 15000.0,
+        "cancellation_policy": "Free cancellation till 48h",
+        "payment_terms": "Pay at hotel",
+        "reliability": 0.95
+      },
+      {
+        "row_id": "B-0001",
+        "supplier": "B",
+        "price_inr": 14500.0,
+        "cancellation_policy": "Non-refundable",
+        "payment_terms": "Pay now",
+        "reliability": 0.88
+      }
+    ],
+    "best_offer": {
+      "row_id": "A-0001",
+      "supplier": "A",
+      "price_inr": 15000.0,
+      "cancellation_policy": "Free cancellation till 48h",
+      "payment_terms": "Pay at hotel",
+      "reliability": 0.95
+    },
+    "best_offer_reason": "Best value: Rs 15,000, Rs 500 above the cheapest, free cancellation till 48h, supplier reliability 0.95"
+  }
+]
+

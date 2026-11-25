@@ -1,0 +1,91 @@
+row_id,supplier,supplier_hotel_id,name,address,city,pincode,lat,lon,phone,stars,price_inr,cancellation_policy,payment_terms
+C-0001,C,SUPC729232,Taj T Nagar,"37, Station Road, Near Central Market, T Nagar",Chennai,,13.041231,80.232521,,,21720,Non-refundable,Pay now
+C-0002,C,SUPC687019,Noovtel New Town,"66/B, Residency Road, Near Central Market, New Town",Kolkata,700156,22.58056,88.481482,3373655158,,5410,Non-refundable,Pay now
+C-0003,C,SUPC308781,Hotel Grene Park Regency,"142/A, Link Road, Near Metro Station, MG Road Ernakulam",Kochi,682016,9.982082,76.301483,4849924531,,5890,Partial refund,Pay at hotel
+C-0004,C,SUPC552091,The Royal Retreat,"99/A, Airport Road, Near City Mall, Hitech City",Hyderabad,500081,17.444454,78.376238,,4,8920,Non-refundable,Pay now
+C-0005,C,SUPC871501,Heritage Logde Hotel,Mahipalpur,Delhi,110037,,,1145186708,3,3920,Free cancellation till 24h,Pay now
+C-0006,C,SUPC831510,Novotel Hirn Magri,"93/A, Ring Road, Near City Mall, Hiran Magri",Udaipur,,24.558594,73.712119,18002921542,4,6570,Partial refund,Pay now
+C-0007,C,SUPC805034,Hilton Garden Inn Hyderabad Secunderabad,Secunderabad,Hyderabad,500003,17.438269,78.496211,4010791358,,6930,Non-refundable,Pay at hotel
+C-0008,C,SUPC354377,Hotel City Palace Lodge,"177/A, Ring Road, Near Metro Station, Viman Nagar",Pune,411014,,,,,4040,Free cancellation till 24h,Pay now
+C-0009,C,SUPC169326,The Moti Mahl Residency Hotel,Fatehabad Road,Agra,282001,27.159243,78.038873,,3,2970,Non-refundable,Pay now
+C-0010,C,SUPC550268,Lemon Tree Panaji,"122, Airport Road, Near Metro Station, Panaji",Goa,403001,,,18001987737,4,6060,Non-refundable,Pay at hotel
+C-0011,C,SUPC562462,Hoel The Silver Oak Suites,"118/A, Ring Road, Opposite Railway Station, Aerocity",New Delhi,110037,28.557413,77.119428,011431 01783,,7850,Free cancellation till 24h,Pay now
+C-0012,C,SUPC130531,Sarovar Portco Koregaon Park,"107-C, Airport Road, Opposite Railway Station, Koregaon Park",Pune,411001,,,18001981186,4,5960,Non-refundable,Pay now
+C-0013,C,SUPC365953,by Marriott Goa Calngute Courytard,Calangute,Goa,,15.54176,73.751134,18006707197,4,6210,Partial refund,Pay now
+C-0014,C,SUPC540897,Holidya Inn Salt Lake,"44, Ring Road, Opposite Bus Stand, Salt Lake",Kolkata,700091,22.589346,88.413258,18006623525,4,5810,Free cancellation till 48h,Pay later (deposit)
+C-0015,C,SUPC223461,Viman Nagar Tree Premier Viman Nagar Lmon,"19/B, Airport Road, Near Metro Station, Viman Nagar",Pune,,,,,,7260,Non-refundable,Pay now
+C-0016,C,SUPC597457,Hotl The Shree Krishna Inn,"149/B, Residency Road, Near City Mall, Hinjewadi",Pune,411057,18.589429,73.737317,,,1840,Non-refundable,Pay later (deposit)
+C-0017,C,SUPC990136,Lemon Tree Htoel MI Road,"244/A, Link Road, Opposite Railway Station, MI Road",Jaipur,,,,,4,8730,Non-refundable,Pay at hotel
+C-0018,C,SUPC841635,Fortune Select New Town,New Town,Kolkata,700156,22.579986,88.478641,,,5310,Non-refundable,Pay later (deposit)
+C-0019,C,SUPC999636,Hotel Moti Mahal Suites,Connaught Place,Delhi,110001,28.631848,77.218399,1173481353,3,3110,Free cancellation till 24h,Pay later (deposit)
+C-0020,C,SUPC614382,Hotel Moti Mahal Regency,Lake Pichola,Udaipur,313001,24.577019,73.680516,029424 49039,4,7820,Partial refund,Pay later (deposit)
+C-0021,C,SUPC806120,Lotus Rseidency Hotel,"221/B, Main Road, Near Metro Station, Hiran Magri",Udaipur,313002,24.560951,73.707441,2946428072,,7190,Non-refundable,Pay now
+C-0022,C,SUPC550513,Sarovar Poritco Egmore,"34/B, Airport Road, Behind HDFC Bank, Egmore",Chennai,600008,13.071391,80.259601,,4,7680,Non-refundable,Pay now
+C-0023,C,SUPC354415,Regency Jaipur CS-cheme Hyat,C-Scheme,Jaipur,,26.912404,75.781408,,5,21680,Partial refund,Pay at hotel
+C-0024,C,SUPC911102,Oak Suites Hotl,Jawahar Circle,Jaipur,,,,,,2750,Non-refundable,Pay now
+C-0025,C,SUPC662625,Gnger Kolkata Park Street,"180/B, MG Road, Park Street",Calcutta,700016,,,3398346110,3,2640,Free cancellation till 48h,Pay at hotel
+C-0026,C,SUPC140804,ITC Bengaluru Indiranagra,Indiranagar,Bengaluru,,12.976049,77.641439,8014308421,,16150,Non-refundable,Pay now
+C-0027,C,SUPC252591,Hyatt Regency Mahipalpur,"42/B, Beach Road, Near Central Market, Mahipalpur",Delhi,110037,28.545761,77.125204,18002149597,5,22280,Non-refundable,Pay later (deposit)
+C-0028,C,SUPC212002,Sarovar Portico Delhi Connaught Place,Connaught Place,Delhi,110001,28.63195,77.21239,1185387867,4,5350,Partial refund,Pay now
+C-0029,C,SUPC481377,Hilton Garden Inn C-Scehme,"122-C, Church Street, Opposite Bus Stand, C-Scheme",Jaipur,302001,26.912007,75.784846,014124 63698,4,7260,Non-refundable,Pay at hotel
+C-0030,C,SUPC371222,Hotel The Lotus Reency,"228-C, Church Street, Opposite Bus Stand, Mahipalpur",Delhi,,28.545199,77.124049,011436 03811,,5470,Free cancellation till 24h,Pay at hotel
+C-0031,C,SUPC170437,Sarovar Portico Howrah,"184-C, Residency Road, Opposite Railway Station, Howrah",Calcutta,711101,22.591593,88.262462,3349823450,4,8540,Free cancellation till 24h,Pay now
+C-0032,C,SUPC771440,Hyatt Regnecy Jaipur MI,"247-C, Ring Road, Near Metro Station, MI Road",Jaipur,302001,26.916146,75.808281,1415055008,,19280,Non-refundable,Pay now
+C-0033,C,SUPC679606,Fortune Select Whitefied,Whitefield,Bengaluru,560066,,,,4,7130,Partial refund,Pay later (deposit)
+C-0034,C,SUPC849937,Htoel The Shree Krishna Plaza,"121-C, Airport Road, Behind HDFC Bank, Andheri East",Mumbai,400069,19.111893,72.868783,022347 44872,2,1520,Non-refundable,Pay now
+C-0035,C,SUPC721301,Hotel The Shree Krishan Suites,"226-C, MG Road, Opposite Railway Station, Guindy",Chennai,,13.00819,80.216261,4454585178,3,2980,Non-refundable,Pay now
+C-0036,C,SUPC935750,Trebeo Trend Koregaon Park,"107/B, Link Road, Koregaon Park",Pune,411001,18.53631,73.893627,,3,3890,Partial refund,Pay now
+C-0037,C,SUPC183952,The Ashoka Loge,"125, Main Road, Near City Mall, Fatehabad Road",Agra,,,,5624151032,3,3650,Non-refundable,Pay at hotel
+C-0038,C,SUPC678870,Fort Kochi Ptico Fort Kochi Sarovar,Fort Kochi,Cochin,682001,9.962997,76.245939,,4,7100,Non-refundable,Pay now
+C-0039,C,SUPC575279,Hotel The Lodge,"178/B, MG Road, Opposite Railway Station, T Nagar",Chennai,600017,13.039163,80.232845,044466 77730,2,1760,Non-refundable,Pay now
+C-0040,C,SUPC559094,Holidya Inn Express Baga,Baga,Goa,,,,083229 65541,4,6610,Partial refund,Pay at hotel
+C-0041,C,SUPC317722,The City Palce Palace Hotel,"3, Station Road, Near Central Market, Colaba",Mumbai,,,,022300 05727,4,5580,Non-refundable,Pay now
+C-0042,C,SUPC237664,Hoel City Palace Regency,"111/A, Residency Road, Near Metro Station, Panaji",Goa,403001,15.490305,73.827824,8328148199,3,4200,Non-refundable,Pay at hotel
+C-0043,C,SUPC565280,Hotel The Shree Krishna Inn and Suites,Hitech City,Hyderabad,500081,,,4015140967,4,8240,Non-refundable,Pay now
+C-0044,C,SUPC663996,Hyatt Regency Lake Pichola,"198-C, Nehru Road, Lake Pichola",Udaipur,,,,,5,23420,Free cancellation till 24h,Pay now
+C-0045,C,SUPC494763,Fortnue Select Edappally,"54-C, Main Road, Opposite Bus Stand, Edappally",Cochin,682024,10.026247,76.308027,,4,7620,Non-refundable,Pay later (deposit)
+C-0046,C,SUPC509873,The Moti Mahal Residency Hotel,"87/A, Main Road, Near Metro Station, Hiran Magri",Udaipur,,24.562332,73.71038,,3,3030,Free cancellation till 24h,Pay at hotel
+C-0047,C,SUPC847096,Hotel City Palace Regecy,"33, Beach Road, Opposite Bus Stand, Candolim",Goa,403515,15.518989,73.763292,083258 56374,3,3360,Free cancellation till 24h,Pay now
+C-0048,C,SUPC272998,Hyatt Regency Gachibowli,"242, MG Road, Opposite Railway Station, Gachibowli",Hyderabad,500032,17.439582,78.352106,18002149597,5,11940,Free cancellation till 48h,Pay now
+C-0049,C,SUPC264550,Pearl Regecy The,"200-C, Link Road, Behind HDFC Bank, Salt Lake",Kolkata,700091,22.587408,88.420529,033690 38700,3,3070,Non-refundable,Pay now
+C-0050,C,SUPC258727,Htel Ashoka Suites,Edappally,Kochi,682024,10.030057,76.30887,,3,4250,Free cancellation till 24h,Pay now
+C-0051,C,SUPC878774,Radisson Karl Bagh,Karol Bagh,Delhi,110005,28.655794,77.187829,1187774890,5,21390,Partial refund,Pay now
+C-0052,C,SUPC785864,The Shere Krishna Lodge,"58/A, Residency Road, Near City Mall, Panaji",Goa,403001,15.489711,73.827972,083249 70054,3,3700,Non-refundable,Pay now
+C-0053,C,SUPC459762,Baga Rajdhnai Retraet The,Baga,Goa,,,,,,7400,Free cancellation till 24h,Pay now
+C-0054,C,SUPC565553,Ryal Rtereats The,Hitech City,Hyderabad,,17.439592,78.375961,,3,2770,Non-refundable,Pay now
+C-0055,C,SUPC651186,Sree Krishna Suites Hotel,Andheri East,Bombay,400069,19.108547,72.868965,,2,1230,Partial refund,Pay later (deposit)
+C-0056,C,SUPC270495,Shre Krishna Residency Htoel,Fatehabad Road,Agra,,27.163138,78.039062,,2,1700,Non-refundable,Pay later (deposit)
+C-0057,C,SUPC703027,Hotel Moti Mahal Regent,"263, Beach Road, Near Central Market, Lake Pichola",Udaipur,313001,24.578031,73.678726,,3,3160,Free cancellation till 48h,Pay now
+C-0058,C,SUPC783362,The Pearl Regency,"39/B, Station Road, Opposite Bus Stand, New Town",Kolkata,700156,,,,3,3520,Partial refund,Pay now
+C-0059,C,SUPC656837,The Praadise Suites,"13, Residency Road, Near Central Market, Amer Road",Jaipur,302002,,,,3,4490,Non-refundable,Pay later (deposit)
+C-0060,C,SUPC644103,Hotel The Sapphire Retreat,"59/B, Station Road, Banjara Hills",Hyderabad,500034,17.417314,78.43546,040412 44663,,3560,Non-refundable,Pay at hotel
+C-0061,C,SUPC565198,Ashoa Plaza,Viman Nagar,Pune,411014,18.567565,73.915477,,,4130,Non-refundable,Pay at hotel
+C-0062,C,SUPC435996,Hilotn Secunderabad,"158-C, Airport Road, Opposite Bus Stand, Secunderabad",Hyderabad,500003,17.43408,78.494542,,4,7770,Free cancellation till 24h,Pay now
+C-0063,C,SUPC265358,Golden Tlupi Inn The,Park Street,Calcutta,700016,22.554216,88.348775,,2,1650,Non-refundable,Pay at hotel
+C-0064,C,SUPC793024,Hotel The Ashoak Lodge,"223, Residency Road, Near Central Market, Calangute",Goa,403516,15.543651,73.756201,083266 72234,3,3020,Non-refundable,Pay at hotel
+C-0065,C,SUPC292930,Candolim Novotel Goa Candolm,Candolim,Goa,,15.518445,73.759163,,,5550,Non-refundable,Pay now
+C-0066,C,SUPC837952,Ibis Amer Road,"68/A, Nehru Road, Near City Mall, Amer Road",Jaipur,302002,26.987036,75.850267,,3,4310,Non-refundable,Pay now
+C-0067,C,SUPC844007,Whitefield The Ocid Inn,Whitefield,Bangalore,560066,,,,4,5820,Partial refund,Pay at hotel
+C-0068,C,SUPC508548,The Mhaaraja Lodge,Connaught Place,Delhi,110001,,,,,6030,Free cancellation till 24h,Pay now
+C-0069,C,SUPC785572,Paradise Retreat Hotel,"32-C, Station Road, Near Central Market, Salt Lake",Kolkata,,,,3338468360,,2070,Partial refund,Pay later (deposit)
+C-0070,C,SUPC636648,Hotel The Mahraja Palace,"158-C, Ring Road, Near City Mall, Hinjewadi",Pune,411057,,,,4,7140,Non-refundable,Pay now
+C-0071,C,SUPC795578,Hotel Pearl Palace,Lake Pichola,Udaipur,,24.577438,73.678947,,,8950,Non-refundable,Pay now
+C-0072,C,SUPC853258,The Blue Lagoon Retraet,Amer Road,Jaipur,302002,26.986466,75.853577,014132 96984,3,2960,Free cancellation till 48h,Pay now
+C-0073,C,SUPC472932,Sarovar Potrico Jaipur C-Scheme,"19/A, Ring Road, C-Scheme",Jaipur,,26.912101,75.786472,,4,5620,Free cancellation till 48h,Pay now
+C-0074,C,SUPC583000,Taj Cndolim,Candolim,Goa,403515,15.516544,73.762092,,5,19020,Free cancellation till 24h,Pay now
+C-0075,C,SUPC240384,Rajdahni Lodge The,C-Scheme,Jaipur,302001,26.914127,75.791147,1415047774,4,6010,Free cancellation till 24h,Pay now
+C-0076,C,SUPC571578,ITC Koregaon Park,"11, Beach Road, Near Central Market, Koregaon Park",Pune,,18.537211,73.895049,,5,26240,Non-refundable,Pay at hotel
+C-0077,C,SUPC137581,The Orchid Resdiency,"4-C, Station Road, Opposite Railway Station, Amer Road",Jaipur,,26.983359,75.851786,014125 22849,3,2810,Non-refundable,Pay now
+C-0078,C,SUPC374725,Hotel Park Regency,Edappally,Cochin,,10.025561,76.304702,,,7920,Free cancellation till 24h,Pay now
+C-0079,C,SUPC955129,Radisson Blu Kolkata Salt Lake,"180/B, Nehru Road, Near City Mall, Salt Lake",Calcutta,700091,22.587416,88.416541,,,12610,Partial refund,Pay now
+C-0080,C,SUPC606676,Lemon Tree Hotel Fatehupra,Fatehpura,Udaipur,,24.601223,73.680461,,4,6840,Non-refundable,Pay at hotel
+C-0081,C,SUPC153097,Ibis Chennai Nungambakkam,"204, Church Street, Opposite Railway Station, Nungambakkam",Madras,600034,,,,3,2990,Free cancellation till 24h,Pay later (deposit)
+C-0082,C,SUPC935946,Hilton Garden Inn Circle,"162/B, Station Road, Behind HDFC Bank, Jawahar Circle",Jaipur,302017,26.844768,75.807938,014122 68437,4,6690,Non-refundable,Pay now
+C-0083,C,SUPC288667,Hotel Heritage Palace,"103, Residency Road, Near Metro Station, Hinjewadi",Pune,411057,18.591616,73.739245,020102 89289,4,7120,Non-refundable,Pay later (deposit)
+C-0084,C,SUPC813029,Sarovar Portico Edppally,Edappally,Kochi,682024,10.028066,76.309655,048421 31846,,5770,Free cancellation till 24h,Pay now
+C-0085,C,SUPC394394,Novotel Calangute,Calangute,Goa,403516,15.54294,73.757147,083247 96933,4,7340,Non-refundable,Pay now
+C-0086,C,SUPC453729,Hotel Sapphire Plaza,Edappally,Kochi,682024,,,048435 51908,3,3090,Non-refundable,Pay at hotel
+C-0087,C,SUPC555844,Orchid Paza,T Nagar,Madras,,13.038579,80.239257,,2,2250,Non-refundable,Pay later (deposit)
+C-0088,C,SUPC796772,Ashoka Sutse The,"8-C, Church Street, Near Central Market, Amer Road",Jaipur,302002,,,1416426646,,7520,Non-refundable,Pay at hotel
+C-0089,C,SUPC511987,Blu Karol Bagh Raidsson,Karol Bagh,New Delhi,,,,1178642041,5,19080,Partial refund,Pay later (deposit)
+C-0090,C,SUPC133955,Hoel Residency,MI Road,Jaipur,302001,,,,4,5480,Non-refundable,Pay at hotel

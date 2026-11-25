@@ -1,0 +1,119 @@
+master_id,name,brand,city,locality,street,address,pincode,lat,lon,stars,phone,phone_alt,central_phone,base_price_inr,trap_group
+M0001,Radisson Blu Koregaon Park,Radisson Blu,Pune,Koregaon Park,Main Road,"27, Main Road, Near Metro Station, Koregaon Park",411001,18.536553,73.894447,5,2014265799,2013999315,18002571945,16500,
+M0002,Hotel The Ashoka Lodge,,Goa,Calangute,Residency Road,"223, Residency Road, Near Central Market, Calangute",403516,15.543822,73.756334,3,8326672234,8325566765,,3300,
+M0003,The Orchid Inn,,Bengaluru,Whitefield,MG Road,"155/B, MG Road, Near Central Market, Whitefield",560066,12.969925,77.749817,4,8071662963,8081971316,,5700,
+M0004,Hotel The Sapphire Retreat,,Hyderabad,Banjara Hills,Station Road,"59/B, Station Road, Banjara Hills",500034,17.417122,78.435172,3,4041244663,4023556182,,3700,T3-4
+M0005,The Blue Lagoon Retreat,,Jaipur,Amer Road,Main Road,"240, Main Road, Near Central Market, Amer Road",302002,26.98545,75.851827,3,1413296984,1418169104,,3200,
+M0006,ITC Indiranagar,ITC,Bengaluru,Indiranagar,MG Road,"176/B, MG Road, Opposite Railway Station, Indiranagar",560038,12.97705,77.640282,5,8014308421,8052339391,18007730428,17800,
+M0007,Hotel The Silver Oak Suites,,Delhi,Aerocity,Ring Road,"118/A, Ring Road, Opposite Railway Station, Aerocity",110037,28.556966,77.120481,4,1143101783,1185345555,,8400,
+M0008,The Paradise Suites,,Jaipur,Amer Road,Residency Road,"13, Residency Road, Near Central Market, Amer Road",302002,26.986465,75.851996,3,1413147242,1416666135,,4400,
+M0009,Courtyard by Marriott Mahipalpur,Courtyard by Marriott,Delhi,Mahipalpur,Station Road,"221, Station Road, Near Central Market, Mahipalpur",110037,28.545972,77.124255,4,1182070937,1145812670,18006707197,5700,
+M0010,Ibis Amer Road,Ibis,Jaipur,Amer Road,Nehru Road,"68/A, Nehru Road, Near City Mall, Amer Road",302002,26.987027,75.849605,3,1419392637,1415005658,18009517169,4400,
+M0011,Taj Candolim,Taj,Goa,Candolim,Main Road,"136, Main Road, Behind HDFC Bank, Candolim",403515,15.519117,73.76146,5,8327557954,8321261412,18002876828,20200,
+M0012,ITC MI Road,ITC,Jaipur,MI Road,Station Road,"188-C, Station Road, MI Road",302001,26.918125,75.806681,5,1418149861,1412687929,18007730428,14200,
+M0013,Hotel City Palace Lodge,,Pune,Viman Nagar,Ring Road,"177/A, Ring Road, Near Metro Station, Viman Nagar",411014,18.567969,73.912094,3,2097225156,2060119651,,3900,
+M0014,Lemon Tree Hotel Fatehpura,Lemon Tree Hotel,Udaipur,Fatehpura,Main Road,"142/A, Main Road, Opposite Railway Station, Fatehpura",313001,24.601143,73.680021,4,2941096513,2941952853,18001987737,6400,
+M0015,Hotel Moti Mahal Suites,,Delhi,Connaught Place,Link Road,"34-C, Link Road, Connaught Place",110001,28.631836,77.218373,3,1173481353,1164634663,,3100,
+M0016,The Maharaja Lodge,,Delhi,Connaught Place,MG Road,"168, MG Road, Near Metro Station, Connaught Place",110001,28.633334,77.21744,4,1155540424,1124665841,,6500,
+M0017,Hotel Heritage Palace,,Pune,Hinjewadi,Residency Road,"103, Residency Road, Near Metro Station, Hinjewadi",411057,18.591447,73.740024,4,2010289289,2062401521,,6600,
+M0018,Sarovar Portico Howrah,Sarovar Portico,Kolkata,Howrah,Residency Road,"184-C, Residency Road, Opposite Railway Station, Howrah",711101,22.593694,88.262766,4,3349823450,3339219319,18001981186,8700,
+M0019,Hyatt Regency Sadar Bazaar,Hyatt Regency,Agra,Sadar Bazaar,MG Road,"129/A, MG Road, Opposite Bus Stand, Sadar Bazaar",282001,27.158889,77.998927,5,5622075237,5623494100,18002149597,12700,
+M0020,ITC Koregaon Park,ITC,Pune,Koregaon Park,Beach Road,"11, Beach Road, Near Central Market, Koregaon Park",411001,18.535071,73.893356,5,2088339168,2085863473,18007730428,24300,
+M0021,Sarovar Portico Egmore,Sarovar Portico,Chennai,Egmore,Airport Road,"34/B, Airport Road, Behind HDFC Bank, Egmore",600008,13.073131,80.261623,4,4419736572,4411250299,18001981186,7900,
+M0022,Hotel Ashoka Suites,,Kochi,Edappally,Church Street,"18/A, Church Street, Behind HDFC Bank, Edappally",682024,10.025926,76.308646,3,4843117242,4846881213,,4200,T3-2
+M0023,Hotel The Moti Mahal Residency,,Agra,Fatehabad Road,Ring Road,"225/A, Ring Road, Near City Mall, Fatehabad Road",282001,27.16137,78.039429,3,5622436612,5628425242,,2900,T2-2
+M0024,Hotel The Silver Oak Suites,,Jaipur,Jawahar Circle,Station Road,"233, Station Road, Near Central Market, Jawahar Circle",302017,26.842492,75.808276,3,1416685137,1414713539,,2600,
+M0025,Hotel The City Palace Palace,,Mumbai,Colaba,Station Road,"3, Station Road, Near Central Market, Colaba",400005,18.905584,72.815276,4,2230005727,2283227889,,5200,
+M0026,Ibis Nungambakkam,Ibis,Chennai,Nungambakkam,Church Street,"204, Church Street, Opposite Railway Station, Nungambakkam",600034,13.057459,80.242077,3,4443491314,4499514287,18009517169,2800,
+M0027,Hotel The Shree Krishna Suites,,Chennai,Guindy,MG Road,"226-C, MG Road, Opposite Railway Station, Guindy",600032,13.007519,80.218506,3,4454585178,4465259205,,3200,
+M0028,Hotel Lotus Residency,,Jaipur,MI Road,Ring Road,"118/B, Ring Road, MI Road",302001,26.917204,75.805487,4,1414054734,1413992029,,5100,
+M0029,Radisson Blu Karol Bagh,Radisson Blu,Delhi,Karol Bagh,Beach Road,"89/B, Beach Road, Opposite Bus Stand, Karol Bagh",110005,28.651829,77.190844,5,1178642041,1125521714,18002571945,20800,T1S-2
+M0030,Sarovar Portico Fort Kochi,Sarovar Portico,Kochi,Fort Kochi,Church Street,"207/A, Church Street, Near Metro Station, Fort Kochi",682001,9.964826,76.241976,4,4841939172,4849915247,18001981186,7100,T1-1
+M0031,Hotel Green Park Regency,,Kochi,MG Road Ernakulam,Link Road,"142/A, Link Road, Near Metro Station, MG Road Ernakulam",682016,9.981361,76.299195,4,4849924531,4846088801,,6100,T2S-2
+M0032,Fortune Select Edappally,Fortune Select,Kochi,Edappally,Main Road,"54-C, Main Road, Opposite Bus Stand, Edappally",682024,10.025476,76.310199,4,4849787310,4845325155,18008801207,7800,
+M0033,Holiday Inn Salt Lake,Holiday Inn,Kolkata,Salt Lake,Ring Road,"44, Ring Road, Opposite Bus Stand, Salt Lake",700091,22.587279,88.414893,4,3399100953,3394951883,18006623525,5500,
+M0034,Lemon Tree Hotel Panaji,Lemon Tree Hotel,Goa,Panaji,Airport Road,"122, Airport Road, Near Metro Station, Panaji",403001,15.491218,73.827899,4,8329452567,8328726524,18001987737,6200,
+M0035,Hilton Garden Inn Sadar Bazaar,Hilton Garden Inn,Agra,Sadar Bazaar,Beach Road,"2, Beach Road, Opposite Railway Station, Sadar Bazaar",282001,27.158694,77.998487,4,5623360711,5627951911,18008793853,5300,
+M0036,Hotel Pearl Palace,,Udaipur,Lake Pichola,Airport Road,"153/B, Airport Road, Opposite Bus Stand, Lake Pichola",313001,24.577499,73.679874,4,2947775017,2946727617,,8500,
+M0037,The Pearl Regency,,Kolkata,Salt Lake,Link Road,"200-C, Link Road, Behind HDFC Bank, Salt Lake",700091,22.586377,88.419019,3,3369038700,3320399639,,3400,T2S-1
+M0038,ITC Panaji,ITC,Goa,Panaji,Residency Road,"60-C, Residency Road, Near Central Market, Panaji",403001,15.491685,73.828764,5,8323871626,8321862065,18007730428,21600,
+M0039,Hilton Garden Inn Secunderabad,Hilton Garden Inn,Hyderabad,Secunderabad,Main Road,"100, Main Road, Near Metro Station, Secunderabad",500003,17.43997,78.498172,4,4074019136,4010791358,18008793853,7200,T1S-5
+M0040,The Ashoka Suites,,Jaipur,Amer Road,Church Street,"8-C, Church Street, Near Central Market, Amer Road",302002,26.985045,75.851518,4,1416426646,1413215192,,7900,
+M0041,ITC Electronic City,ITC,Bengaluru,Electronic City,Beach Road,"7, Beach Road, Opposite Railway Station, Electronic City",560100,12.844384,77.659842,5,8071968116,8034391257,18007730428,12200,
+M0042,Courtyard by Marriott Amer Road,Courtyard by Marriott,Jaipur,Amer Road,Beach Road,"98/B, Beach Road, Behind HDFC Bank, Amer Road",302002,26.985552,75.850476,4,1412099326,1417312351,18006707197,5100,
+M0043,Novotel Candolim,Novotel,Goa,Candolim,Church Street,"180/B, Church Street, Opposite Railway Station, Candolim",403515,15.519154,73.763992,4,8329132154,8329150337,18002921542,6000,T1-2
+M0044,The Rajdhani Lodge,,Jaipur,C-Scheme,Station Road,"152/A, Station Road, Near Central Market, C-Scheme",302001,26.913076,75.789554,4,1415047774,1419058588,,5700,
+M0045,Hilton Garden Inn Fort Kochi,Hilton Garden Inn,Kochi,Fort Kochi,MG Road,"166/B, MG Road, Fort Kochi",682001,9.967152,76.242735,4,4846637932,4847579375,18008793853,5600,
+M0046,The Shree Krishna Lodge,,Hyderabad,Secunderabad,Airport Road,"70-C, Airport Road, Near Metro Station, Secunderabad",500003,17.441514,78.497927,3,4089520597,4046023439,,3500,T2-1
+M0047,Courtyard by Marriott Calangute,Courtyard by Marriott,Goa,Calangute,Church Street,"157-C, Church Street, Near City Mall, Calangute",403516,15.543464,73.755425,4,8327634469,8325362266,18006707197,6100,
+M0048,Radisson Blu Salt Lake,Radisson Blu,Kolkata,Salt Lake,Nehru Road,"180/B, Nehru Road, Near City Mall, Salt Lake",700091,22.58726,88.416433,5,3379340535,3335643159,18002571945,13100,
+M0049,Holiday Inn Baga,Holiday Inn,Goa,Baga,Airport Road,"183-C, Airport Road, Baga",403516,15.554765,73.751784,4,8321231435,8322248940,18006623525,6800,T1S-1
+M0050,The Rajdhani Retreat,,Goa,Baga,Church Street,"191/B, Church Street, Near Central Market, Baga",403516,15.554607,73.752776,4,8327090065,8324636178,,6900,
+M0051,Lemon Tree Hotel MI Road,Lemon Tree Hotel,Jaipur,MI Road,Link Road,"244/A, Link Road, Opposite Railway Station, MI Road",302001,26.916968,75.805204,4,1417498803,1414711115,18001987737,8700,
+M0052,Novotel Hiran Magri,Novotel,Udaipur,Hiran Magri,Ring Road,"93/A, Ring Road, Near City Mall, Hiran Magri",313002,24.559463,73.711975,4,2948169039,2942698967,18002921542,6700,
+M0053,Hotel The Shree Krishna Plaza,,Mumbai,Andheri East,Airport Road,"121-C, Airport Road, Behind HDFC Bank, Andheri East",400069,19.111843,72.868766,2,2234744872,2216895666,,1600,
+M0054,The Golden Tulip Inn,,Kolkata,Park Street,Station Road,"243/B, Station Road, Opposite Railway Station, Park Street",700016,22.553628,88.351757,2,3325898299,3384903294,,1800,
+M0055,Hotel Moti Mahal Lodge,,Kochi,Edappally,Ring Road,"151-C, Ring Road, Opposite Bus Stand, Edappally",682024,10.0255,76.310387,4,4849335287,4841808397,,8900,
+M0056,Hotel Palm Regency,,Agra,Taj Ganj,MG Road,"20/A, MG Road, Near Metro Station, Taj Ganj",282001,27.168463,78.042253,2,5627046558,5628969998,,1900,
+M0057,Sarovar Portico C-Scheme,Sarovar Portico,Jaipur,C-Scheme,Ring Road,"19/A, Ring Road, C-Scheme",302001,26.912805,75.786749,4,1419389386,1418916021,18001981186,6200,
+M0058,Treebo Trend Banjara Hills,Treebo Trend,Hyderabad,Banjara Hills,MG Road,"37, MG Road, Opposite Railway Station, Banjara Hills",500034,17.415567,78.43505,3,4051286958,4089865458,18005842082,3900,
+M0059,Hotel The Lotus Regency,,Delhi,Mahipalpur,Church Street,"228-C, Church Street, Opposite Bus Stand, Mahipalpur",110037,28.543995,77.123852,4,1143603811,1113471527,,5500,
+M0060,Hotel The City Palace Residency,,Goa,Calangute,Residency Road,"235/B, Residency Road, Opposite Bus Stand, Calangute",403516,15.543385,73.754404,3,8326850349,8329519936,,4000,
+M0061,Hyatt Regency Mahipalpur,Hyatt Regency,Delhi,Mahipalpur,Beach Road,"42/B, Beach Road, Near Central Market, Mahipalpur",110037,28.545372,77.125003,5,1176500726,1148683937,18002149597,21200,
+M0062,Hyatt Regency Lake Pichola,Hyatt Regency,Udaipur,Lake Pichola,Nehru Road,"198-C, Nehru Road, Lake Pichola",313001,24.576424,73.680416,5,2941015449,2949826968,18002149597,24800,
+M0063,Fortune Select New Town,Fortune Select,Kolkata,New Town,MG Road,"161-C, MG Road, Opposite Railway Station, New Town",700156,22.580033,88.479118,4,3345843681,3383715012,18008801207,5800,
+M0064,The Orchid Residency,,Jaipur,Amer Road,Station Road,"4-C, Station Road, Opposite Railway Station, Amer Road",302002,26.984905,75.852965,3,1412522849,1417193448,,2800,
+M0065,Sarovar Portico Koregaon Park,Sarovar Portico,Pune,Koregaon Park,Airport Road,"107-C, Airport Road, Opposite Railway Station, Koregaon Park",411001,18.536018,73.893334,4,2071308842,2083989546,18001981186,5900,
+M0066,Hotel The Shree Krishna Inn,,Hyderabad,Hitech City,MG Road,"88/B, MG Road, Behind HDFC Bank, Hitech City",500081,17.444562,78.375755,3,4050071487,4088777447,,4300,T3-5
+M0067,The Ashoka Plaza,,Pune,Viman Nagar,Church Street,"97-C, Church Street, Viman Nagar",411014,18.56796,73.913513,3,2035320492,2042051937,,4300,
+M0068,The Royal Retreat,,Hyderabad,Hitech City,Airport Road,"99/A, Airport Road, Near City Mall, Hitech City",500081,17.444098,78.375657,4,4026944487,4077416376,,8700,T3-3
+M0069,The Orchid Plaza,,Chennai,T Nagar,Station Road,"168/A, Station Road, Near Metro Station, T Nagar",600017,13.040426,80.234995,2,4445570755,4455440919,,2100,
+M0070,The Ashoka Lodge,,Agra,Fatehabad Road,Main Road,"125, Main Road, Near City Mall, Fatehabad Road",282001,27.160773,78.036969,3,5624151032,5629471299,,3400,
+M0071,Novotel Calangute,Novotel,Goa,Calangute,Residency Road,"26-C, Residency Road, Near Central Market, Calangute",403516,15.543511,73.753597,4,8325019365,8321388523,18002921542,5200,
+M0072,Hyatt Regency T Nagar,Hyatt Regency,Chennai,T Nagar,Residency Road,"106/A, Residency Road, Opposite Railway Station, T Nagar",600017,13.041835,80.235095,5,4420598952,4491804602,18002149597,20700,
+M0073,ITC Edappally,ITC,Kochi,Edappally,Airport Road,"164/B, Airport Road, Behind HDFC Bank, Edappally",682024,10.026247,76.309725,5,4849950184,4841126130,18007730428,22900,
+M0074,Hyatt Regency MI Road,Hyatt Regency,Jaipur,MI Road,Ring Road,"247-C, Ring Road, Near Metro Station, MI Road",302001,26.916324,75.808377,5,1415055008,1413673845,18002149597,20800,
+M0075,Ginger Park Street,Ginger,Kolkata,Park Street,MG Road,"180/B, MG Road, Park Street",700016,22.55327,88.352939,3,3398346110,3363124147,18005605016,2500,
+M0076,Hotel Sapphire Plaza,,Kochi,Edappally,Link Road,"206/B, Link Road, Near Central Market, Edappally",682024,10.026318,76.31016,3,4843551908,4849333460,,3300,
+M0077,Hotel The Shree Krishna Inn,,Pune,Hinjewadi,Residency Road,"149/B, Residency Road, Near City Mall, Hinjewadi",411057,18.590552,73.739167,2,2049609054,2053851498,,1800,
+M0078,Fortune Select Whitefield,Fortune Select,Bengaluru,Whitefield,Residency Road,"129/B, Residency Road, Behind HDFC Bank, Whitefield",560066,12.968487,77.751512,4,8074672520,8049613214,18008801207,7100,
+M0079,Hotel Heritage Lodge,,Delhi,Mahipalpur,Airport Road,"68, Airport Road, Behind HDFC Bank, Mahipalpur",110037,28.54464,77.124642,3,1145186708,1188458327,,3700,
+M0080,Lemon Tree Hotel Viman Nagar,Lemon Tree Hotel,Pune,Viman Nagar,Main Road,"242/B, Main Road, Opposite Railway Station, Viman Nagar",411014,18.567124,73.913536,4,2096926431,2018484847,18001987737,7900,T1S-4
+M0081,Hotel Shree Krishna Residency,,Agra,Fatehabad Road,Nehru Road,"25/A, Nehru Road, Opposite Railway Station, Fatehabad Road",282001,27.159015,78.038036,2,5626216316,5627088703,,1700,
+M0082,Hotel The Maharaja Palace,,Pune,Hinjewadi,Ring Road,"158-C, Ring Road, Near City Mall, Hinjewadi",411057,18.59194,73.737554,4,2059731689,2039161443,,7800,
+M0083,Hotel Paradise Retreat,,Kolkata,Salt Lake,Station Road,"32-C, Station Road, Near Central Market, Salt Lake",700091,22.587031,88.417903,2,3338468360,3396128115,,2100,
+M0084,Hotel Shree Krishna Suites,,Mumbai,Andheri East,Link Road,"151/A, Link Road, Behind HDFC Bank, Andheri East",400069,19.111838,72.869039,2,2229804386,2289991301,,1200,
+M0085,Hotel The City Palace Palace,,Jaipur,MI Road,Link Road,"4/B, Link Road, Opposite Bus Stand, MI Road",302001,26.918469,75.806269,2,1415345587,1411211810,,1400,
+M0086,Hilton Garden Inn C-Scheme,Hilton Garden Inn,Jaipur,C-Scheme,Church Street,"122-C, Church Street, Opposite Bus Stand, C-Scheme",302001,26.912368,75.785972,4,1418968050,1412463698,18008793853,7800,T1-3
+M0087,Hotel Moti Mahal Regency,,Udaipur,Lake Pichola,Beach Road,"123-C, Beach Road, Near Central Market, Lake Pichola",313001,24.577421,73.68031,4,2942449039,2947580277,,7800,T3-1
+M0088,Taj Connaught Place,Taj,Delhi,Connaught Place,Beach Road,"163/B, Beach Road, Opposite Bus Stand, Connaught Place",110001,28.631477,77.216866,5,1181210133,1149580505,18002876828,22600,
+M0089,Holiday Inn Hiran Magri,Holiday Inn,Udaipur,Hiran Magri,Beach Road,"167/A, Beach Road, Near Metro Station, Hiran Magri",313002,24.560951,73.708612,4,2944066788,2946554111,18006623525,7100,
+M0090,Novotel New Town,Novotel,Kolkata,New Town,Residency Road,"66/B, Residency Road, Near Central Market, New Town",700156,22.579731,88.480704,4,3373655158,3319010480,18002921542,5500,
+M0091,Sarovar Portico Connaught Place,Sarovar Portico,Delhi,Connaught Place,Main Road,"143, Main Road, Opposite Bus Stand, Connaught Place",110001,28.63213,77.214945,4,1185387867,1154244334,18001981186,5700,
+M0092,The Royal Regency,,Hyderabad,Secunderabad,Airport Road,"55/A, Airport Road, Opposite Railway Station, Secunderabad",500003,17.439201,78.49791,3,4024524825,4056991504,,4200,
+M0093,Hotel The Heritage Lodge,,Chennai,T Nagar,MG Road,"178/B, MG Road, Opposite Railway Station, T Nagar",600017,13.041049,80.232922,2,4446677730,4451471222,,1700,
+M0094,Taj T Nagar,Taj,Chennai,T Nagar,Station Road,"37, Station Road, Near Central Market, T Nagar",600017,13.040764,80.234864,5,4481200181,4438874646,18002876828,20600,
+M0095,Hyatt Regency Gachibowli,Hyatt Regency,Hyderabad,Gachibowli,MG Road,"242, MG Road, Opposite Railway Station, Gachibowli",500032,17.439784,78.349557,5,4031127198,4092924837,18002149597,12200,
+M0096,Treebo Trend Koregaon Park,Treebo Trend,Pune,Koregaon Park,Link Road,"107/B, Link Road, Koregaon Park",411001,18.535453,73.893372,3,2078765957,2025276327,18005842082,3600,
+M0097,Hotel City Palace Regency,,Goa,Panaji,Residency Road,"111/A, Residency Road, Near Metro Station, Panaji",403001,15.49063,73.827805,3,8328148199,8324088493,,4100,T2S-3
+M0098,Hotel Lotus Residency,,Udaipur,Hiran Magri,Main Road,"221/B, Main Road, Near Metro Station, Hiran Magri",313002,24.560037,73.709978,4,2948696040,2946428072,,7600,
+M0099,Hyatt Regency C-Scheme,Hyatt Regency,Jaipur,C-Scheme,Station Road,"118/B, Station Road, Near Metro Station, C-Scheme",302001,26.912766,75.78716,5,1412420870,1414265738,18002149597,22100,T1S-3
+M0100,Hilton Garden Inn MG Road Ernakulam,Hilton Garden Inn,Kochi,MG Road Ernakulam,Residency Road,"57/B, Residency Road, Near City Mall, MG Road Ernakulam",682016,9.981548,76.29791,4,4847851590,4849498997,18008793853,5700,
+M0101,Holiday Inn Express Baga,Holiday Inn Express,Goa,Baga,Link Road,"166/A, Link Road, Near City Mall, Baga",403516,15.556975,73.755065,4,8322965541,8324435547,18006623525,6200,T1S-1
+M0102,Radisson Karol Bagh,Radisson,Delhi,Karol Bagh,Airport Road,"244-C, Airport Road, Karol Bagh",110005,28.656192,77.186294,5,1185663295,1187774890,18002571945,22400,T1S-2
+M0103,Hyatt Place C-Scheme,Hyatt Place,Jaipur,C-Scheme,Residency Road,"83/B, Residency Road, Near Metro Station, C-Scheme",302001,26.914406,75.781023,5,1411916522,1417293752,18002149597,22300,T1S-3
+M0104,Lemon Tree Premier Viman Nagar,Lemon Tree Premier,Pune,Viman Nagar,Airport Road,"19/B, Airport Road, Near Metro Station, Viman Nagar",411014,18.572905,73.916727,4,2015047559,2017635653,18001987737,7300,T1S-4
+M0105,Hilton Secunderabad,Hilton,Hyderabad,Secunderabad,Airport Road,"158-C, Airport Road, Opposite Bus Stand, Secunderabad",500003,17.433813,78.495053,4,4084399083,4015505975,18008793853,7800,T1S-5
+M0106,Sarovar Portico Edappally,Sarovar Portico,Kochi,Edappally,Church Street,"116, Church Street, Near Central Market, Edappally",682024,10.02719,76.308099,4,4842131846,4847771942,18001981186,6100,T1-1
+M0107,Novotel Calangute,Novotel,Goa,Calangute,Church Street,"113/A, Church Street, Behind HDFC Bank, Calangute",403516,15.543484,73.755521,4,8324796933,8326199817,18002921542,7600,T1-2
+M0108,Hilton Garden Inn Jawahar Circle,Hilton Garden Inn,Jaipur,Jawahar Circle,Station Road,"162/B, Station Road, Behind HDFC Bank, Jawahar Circle",302017,26.843947,75.807554,4,1412268437,1418488855,18008793853,7400,T1-3
+M0109,The Pearl Regency,,Kolkata,New Town,Station Road,"39/B, Station Road, Opposite Bus Stand, New Town",700156,22.578265,88.478585,3,3399068509,3328982195,,3600,T2S-1
+M0110,Hotel Green Park Regency,,Kochi,Edappally,Main Road,"101/A, Main Road, Near Central Market, Edappally",682024,10.025407,76.306302,4,4842137079,4845155137,,8500,T2S-2
+M0111,Hotel City Palace Regency,,Goa,Candolim,Beach Road,"33, Beach Road, Opposite Bus Stand, Candolim",403515,15.518214,73.764025,3,8325856374,8321244686,,3600,T2S-3
+M0112,The Shree Krishna Lodge,,Goa,Panaji,Residency Road,"58/A, Residency Road, Near City Mall, Panaji",403001,15.488774,73.827991,3,8324970054,8322357488,,4100,T2-1
+M0113,Hotel The Moti Mahal Residency,,Udaipur,Hiran Magri,Main Road,"87/A, Main Road, Near Metro Station, Hiran Magri",313002,24.561935,73.710514,3,2943070345,2943177645,,3000,T2-2
+M0114,Hotel Moti Mahal Regent,,Udaipur,Lake Pichola,Beach Road,"263, Beach Road, Near Central Market, Lake Pichola",313001,24.577648,73.679172,3,2948167376,2944210065,,3400,T3-1
+M0115,Hotel Ashoka Suite,,Kochi,Edappally,Church Street,"259, Church Street, Behind HDFC Bank, Edappally",682024,10.026232,76.307716,4,4848079445,4846619170,,6000,T3-2
+M0116,The Royal Retreats,,Hyderabad,Hitech City,Airport Road,"283, Airport Road, Near City Mall, Hitech City",500081,17.443965,78.376624,3,4026733967,4048260510,,2700,T3-3
+M0117,Hotel The Sapphire Retreats,,Hyderabad,Banjara Hills,Station Road,"256, Station Road, Banjara Hills",500034,17.41719,78.435973,2,4065686520,4017148018,,1800,T3-4
+M0118,Hotel The Shree Krishna Inn & Suites,,Hyderabad,Hitech City,MG Road,"296, MG Road, Behind HDFC Bank, Hitech City",500081,17.445134,78.376469,4,4015140967,4048504300,,8000,T3-5
